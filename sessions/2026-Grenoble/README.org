@@ -8,6 +8,7 @@ the 2024-2025 session.
 
 * Teachers
 - [[https://danilo-carastan-santos.github.io/][Danilo Carastan-Santos]]: danilo.carastan-dos-santos@univ-grenoble-alpes.fr
+- Marina Gradvohl: marina.gradvohl@univ-grenoble-alpes.fr
 
 * Aknowledgement
 We would like to thank Susan Sinclair (UGA/UFR Langues Etrangères) for providing content to improve the course.
