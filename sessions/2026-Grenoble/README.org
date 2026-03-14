@@ -29,12 +29,12 @@ The table below presents a tentative schedule for this course.
 |    2 | 04/02/2026 | Structure of a research article and formulating research questions |
 |    3 | 11/02/2026 | Writing an introduction                                            |
 |    4 | 25/02/2026 | Reviewing previous research: related work                          |
-|    5 | 04/03/2026 | Writing a scientific methodology                                   |
-|    6 | 11/03/2026 | Writing scientific results                                         |
-|    7 | 18/03/2026 | Writing a scientific discussion and conclusion                     |
-|    8 | 25/03/2026 | Writing an Abstract and a Title                                    |
-|    9 | 01/04/2026 | Writing with style + Mid-term exam                                 |
-|   10 | 15/04/2026 | Presenting scientific content (speaking)                           |
+|    5 | 04/03/2026 | Class cancelled                                   |
+|    6 | 11/03/2026 | Writing an introduction                                        |
+|    7 | 18/03/2026 | Writing a scientific methodology                     |
+|    8 | 25/03/2026 | Writing scientific results                                    |
+|    9 | 01/04/2026 | Writing a scientific discussion and conclusion, Abstract and a Title                                |
+|   10 | 15/04/2026 | _Mid-term exam_ + Presenting scientific content (speaking)                           |
 |   11 | 22/04/2026 | Hands-on student presentations (three-minute madness)              |
 
 ** Evaluation Process
