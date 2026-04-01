@@ -48,6 +48,46 @@ The table below presents a tentative schedule for this course.
 The final report will be checked by a plagiarism detection system. Any detected
 plagiarism will trigger administrative sanctioning procedures.
 
+** Instructions for the mid-report
+
+The instructions differ if you are enrolled as a MOSIG student or an exchange student:
+
+*** If you are a MOSIG student
+
+Your mid-report must be an initial version of your internship intermediate
+report. The content must be as follows
+
+1. *(mandatory)* The description of the research problem and the objectives of
+the internship
+
+2. *(mandatory)* The description of the background information related to your
+internship and the analysis of the state of the art 
+
+3. *(optional)* The current status of the work: description of preliminary ideas, milestones
+(for example, testbed setup, prototype implementation) 
+
+4. *(optional)* The plan (what you expect to do) for the remainder of the internship 
+
+5. *(mandatory)* The bibliography
+
+You must use the same template of your internship report, and *must not exceed
+two pages, including references*. 
+
+*** If you are an exchange student
+
+Your task is to write a scientific paper about the QuickSort algorithm. Suppose
+that you are the creators of this algorithm, and now you want to publish your
+work as a scientific paper. The paper must follow the provided template
+(https://cloud.univ-grenoble-alpes.fr/s/GLE4qxtWzw9FHJr) and must not exceed two
+pages, including references.
+
+*** The Deadline
+
+The deadline is *Tuesday, 14 April 2026, 11:59 PM Paris time*. You must enroll
+on MOODLE (https://im2ag-moodle.univ-grenoble-alpes.fr/course/view.php?id=348)
+to submit your report. The enrollment key will be given during class. *Only
+submissions from MOODLE will be accepted*.
+
 * References
 - Alley, M. (2018). The Craft of Scientific Writing. Springer New
   York. https://doi.org/10.1007/978-1-4419-8288-9
